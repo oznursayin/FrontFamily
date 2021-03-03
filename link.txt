@@ -1,2 +1,5 @@
 https://www.w3schools.com/js/js_htmldom_document.asp
 DOM araşdırmaq üçün
+
+Js Arasdirmaq ucun
+https://www.javascripttutorial.net/
